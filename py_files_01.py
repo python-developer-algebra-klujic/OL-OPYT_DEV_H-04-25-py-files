@@ -6,11 +6,11 @@ while True:
     phone = input('Upisite Vas broj mobitela: ')
     email = input('Upisite Vas email: ')
 
-    contact = f'Ime: {first_name};Prezime: {last_name};Phone: {phone};Email: {email}'
+    contact = f'Ime: {first_name};Prezime: {last_name};Phone: {phone};Email: {email}\n'
 
     print(contact)
 
-    file_writer = open('contacts.txt', 'w')
+    file_writer = open('contacts.txt', 'a')
     file_writer.write(contact)
     file_writer.close()
 
