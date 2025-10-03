@@ -2,3 +2,5 @@ Ime: Pero;Prezime: Peric;Phone: 1234 567;Email: pero@email.hr
 Ime: Iva;Prezime: Ivic;Phone: 7895 357;Email: iva@email.hr
 Ime: Ana;Prezime: Anic;Phone: 9876 543;Email: ana@email.hr
 Ime: Petar;Prezime: Petric;Phone: 1597 531;Email: petar@email.hr
+Ime: MArko;Prezime: Markic;Phone: 6454 987;Email: marko@email.com
+Ime: Jakov;Prezime: Jakic;Phone: 3258 974;Email: jakov@email.hr
